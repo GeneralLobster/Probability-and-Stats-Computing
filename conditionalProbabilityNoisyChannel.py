@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Feb 21 20:58:03 2021
-
-@author: llim8
-"""
-
 import random as r
 
 #parameters given
