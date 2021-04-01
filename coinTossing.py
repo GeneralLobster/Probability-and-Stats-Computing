@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Feb  5 15:09:16 2021
-
-@author: llim8
-"""
 import random
 
 def coinToss():#simulates 100 coin tosses
