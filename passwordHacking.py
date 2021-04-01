@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sat Feb  6 12:33:42 2021
-
-@author: llim8
-"""
 
 import random
 alphabet=['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o',
